@@ -1,0 +1,54 @@
+h3{
+    margin-top: 20px;
+    padding-left: 30px;
+};
+img{
+    width: 500px;
+    height: 500px;
+};
+
+/*
+Bagian Syntax CSS :
+Dalam kode CSS, ada 2 bagian yang terpisah, yaitu Selector dan Declaration.
+Selector biasanya merupakan elemen HTML atau tag dimana berbagai properti diberi suatu nilai.
+Setiap Declaration terdiri dari Property dan Value.
+Untuk penulisan Declaration harus menggunakan tanda kurung kurawal {...}
+Property adalah atribut style yang ingin dirubah, misalnya color, background, margin, dll.
+Setiap Property memiliki Value (nilai) sesuai dengan jenis property-nya. 
+*/
+
+/* 
+CSS Specificity :
+Jika ada dua atau lebih aturan CSS yang bertentangan yang mengarah ke elemen yang sama, browser mengikuti beberapa aturan untuk menentukan aturan mana yang paling spesifik dan oleh karena itu menang.
+Pikirkan kekhususan sebagai skor / peringkat yang menentukan deklarasi gaya mana yang pada akhirnya diterapkan ke suatu elemen.
+Selektor universal (*) memiliki spesifisitas rendah, sedangkan pemilih ID sangat spesifik!
+*/
+
+/*
+Responsive website :
+sebuah metode atau pendekatan sistem web desain yang bertujuan memberikan pengalaman berselancar yang optimal dalam berbagai perangkat, baik mobile maupun komputer meja.
+Desain web responsif membuat halaman web Anda terlihat bagus di semua perangkat.
+Desain web responsif hanya menggunakan HTML dan CSS.
+Desain web responsif bukanlah program atau JavaScript.
+*/
+
+/*
+CSS Media Queries :
+Kueri media di CSS3 memperluas ide jenis media CSS2: Alih-alih mencari jenis perangkat, mereka melihat kemampuan perangkat.
+Kueri media dapat digunakan untuk memeriksa banyak hal, seperti:
+    a. lebar dan tinggi viewport
+    b. lebar dan tinggi perangkat
+    c. orientasi (apakah tablet / ponsel dalam mode lanskap atau potret?)
+    d. resolusi
+Menggunakan kueri media adalah teknik yang populer untuk menyampaikan lembar gaya yang disesuaikan ke desktop, laptop, tablet, dan telepon seluler (seperti iPhone dan telepon Android).
+*/
+
+/*
+CSS Flexbox dan Grid
+CSS Grid berfungsi baik dengan tata letak item dalam dua dimensi, seperti baris dan kolom, sedangkan flexbox menjabarkan item dalam satu dimensi, baik dalam satu baris atau kolom.
+*/
+
+/*
+Bootstrap :
+Bootstrap adalah sebuah library framework CSS yang juga sudah dibuat secara khusus guna mengembangkan front end di dalam sebuah website.
+*/
